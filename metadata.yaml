@@ -1,0 +1,27 @@
+_repo: Lafcadio-Hearn_33345
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kennard, Nina H.
+    gutenberg_agent_id: '36348'
+    url: http://www.gutenberg.org/2009/agents/36348
+description: ''
+gutenberg_issued: '2010-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33345'
+  lccn: '12003822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American -- 19th century -- Correspondence'
+- !lcsh 'Hearn, Lafcadio, 1850-1904'
+- !lcc 'PS'
+- !lcsh 'Hearn, Lafcadio, 1850-1904 -- Correspondence'
+title: Lafcadio Hearn
+url: http://www.gutenberg.org/ebooks/33345
