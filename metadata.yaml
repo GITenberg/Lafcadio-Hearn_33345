@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36348'
     url: http://www.gutenberg.org/2009/agents/36348
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33345#Lafcadio-Hearn
 gutenberg_issued: '2010-08-03'
 gutenberg_type: Text
 identifiers:
